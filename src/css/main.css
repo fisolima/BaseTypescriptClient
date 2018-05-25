@@ -1,0 +1,29 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    /* background-color: #000; */
+}
+
+#app-body {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+
+#render-body {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    display: none;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
